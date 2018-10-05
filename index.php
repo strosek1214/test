@@ -4,7 +4,7 @@
 
     <main role="main">
       <div class="container">
-        <div class="row">
+        <div class="row"> 
           <div class="col-md-10">
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
